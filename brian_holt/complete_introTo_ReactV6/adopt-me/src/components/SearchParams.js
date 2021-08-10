@@ -1,5 +1,5 @@
 import { useState, useEffect, useContext } from "react";
-import ThemeContext from "./ThemeContext";
+import ThemeContext from "../context/ThemeContext";
 import useBreedList from "./useBreedList";
 import Results from "./Results";
 
